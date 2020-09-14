@@ -1,0 +1,9 @@
+<suite name="Retrofit Suite">
+    <parameter name="env" value="github"/>
+
+    <test name="Core Integration Tests">
+        <classes>
+            <class name="RetrofitTestCase"/>
+        </classes>
+    </test>
+</suite>
